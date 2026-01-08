@@ -1,2 +1,4 @@
 .idea
 *.iml
+# Maven target folder
+target/
